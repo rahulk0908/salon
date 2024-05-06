@@ -14,7 +14,7 @@ const Layout = () => {
       <ScrollToTop />
       <Hero />
       <About />
-      <Offer />
+      {/* <Offer /> */}
       <Testimonials />
       <Footer />
     </>
